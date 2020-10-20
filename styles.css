@@ -1,0 +1,44 @@
+/* add your CSS here */
+#title {
+    text-align: center;
+    background-color: lightgray;
+}
+#content {
+    border: 2px solid black;
+    list-style-position: inside;
+    margin: 15px;
+    
+}
+#info {
+
+    border: 1px solid black;
+    background-color: lightgray;
+
+}
+#descrip {
+
+    width: 295px;
+    border: 2px solid black;
+    text-align: center;
+    margin: 15px;
+    background-color: rgb(255, 255, 255); 
+}
+.container {
+    margin:15px;
+    width:365px;
+    border: 4px solid rgb(44, 68, 173);
+    background-color: lightgray;
+
+}
+img {
+    border-radius: 50%;
+    margin: 15px;
+    width: 300px;
+    border-style: groove;
+    border-image-width: 5px black;
+
+  }
+
+  ul {
+    list-style-type: none;
+}
